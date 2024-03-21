@@ -10,7 +10,7 @@
 
 
 
-🌱 I’m currently learning **MERN,React Native**
+🌱 I’m currently learning ****
 
 💬 Ask me about **ReactJS**
 
